@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base : '/GIC2023',
+  base : '/tp3-pages',
   plugins: [
     vue(),
   ],
