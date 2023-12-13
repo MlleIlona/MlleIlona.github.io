@@ -2,7 +2,7 @@
   "name": "e-commerce",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://mlleilona.github.io/e-commerce/",
+  "homepage": "https://mlleilona.github.io/tp3-pages/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
